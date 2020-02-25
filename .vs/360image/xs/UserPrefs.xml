@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D42115F3-4ED9-37BA-B551-6FC8B12C1C95}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PhotoController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PhotoController.cs" Line="24" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ad8acd52-2157-4cf4-89e5-8996e6c1a321" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
